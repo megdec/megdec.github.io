@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Meghane Decroocq"
+title                    : "Research Work"
 title_separator          : "-"
 name                     : &name "Meghane Decroocq"
 description              : &description "personal description"
@@ -23,7 +23,7 @@ repository               : "megdec.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Postdoctoral Researcher"
+  name             : "Meghane Decroocq"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Saitama, Japan"
