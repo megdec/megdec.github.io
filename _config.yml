@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Research Work"
+title                    : "Meghane DECROOCQ"
 title_separator          : "-"
 name                     : &name "Meghane Decroocq"
 description              : &description "personal description"
