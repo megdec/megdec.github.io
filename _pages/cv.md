@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Double degree Ph.D. in Biomedical Engineering, Tohoku University, Japan (2023) and in Applied Informatics, INSA Lyon, France (2023)
+  Host Laboratories: [Ohta Laboratory](https://www.ifs.tohoku.ac.jp/bfc/html/English/index_ohta_e.html), Tohoku University, [CREATIS](https://www.creatis.insa-lyon.fr/site/en) and [LIRIS](https://projet.liris.cnrs.fr/origami/) laboratories, INSA Lyon.
+  Supervisor: Makoto Ohta (Tohoku University), Guillaume Lavoue (LIRIS), Carole Frindel (CREATIS)
+* M.S. in Biosciences, option Bioinformatics, INSA Lyon, France, 2019
+* B.S. 
 
 Work experience
 ======
