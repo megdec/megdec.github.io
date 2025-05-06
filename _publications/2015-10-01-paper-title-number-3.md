@@ -3,7 +3,7 @@ title: "Modeling and hexahedral meshing of cerebral arterial networks from cente
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'A tool to obtain ready-for-CFD hexahedral surface and volumes meshes of arterial networks from centerlines'
+excerpt: 'A tool to obtain ready-for-CFD hexahedral surface and volume arterial network meshes from centerlines'
 date: 2023
 venue: 'Medical Image Analysis'
 slidesurl: ''
