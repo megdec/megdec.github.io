@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'A tool to obtain ready-for-CFD hexahedral surface and volume arterial network meshes from centerlines'
-date: 2023
+date: 2023-01-01
 venue: 'Medical Image Analysis'
 slidesurl: ''
 paperurl: 'https://arxiv.org/abs/2201.08279'
